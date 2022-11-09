@@ -1,0 +1,8 @@
+name: import-code-action
+
+dependencies:
+        - base
+
+executable:
+        main: main.hs
+        other-modules: MyNumeric
